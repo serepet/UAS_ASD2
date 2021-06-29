@@ -7,7 +7,7 @@ public class TheApps {
         newQueue.enqueue(8);
         newQueue.show();
         System.out.println("yang diambil dari antrian = "+newQueue.dequeue());
-        System.out.println("Nama saya adalah Yusron Arly Bazarah");
+        System.out.println("Nama saya adalah m rizki");
         newQueue.show();
         newQueue.enqueue(7);
         newQueue.show();
