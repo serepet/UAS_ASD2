@@ -10,7 +10,7 @@ public class TheApps {
         newStack.printData();
         long bacaTop = newStack.peek();
         System.out.println("Nilai top = "+bacaTop);
-        System.out.println("Nama saya adalah Yusron Arly Bazarah");
+        System.out.println("Nama saya adalah m rizki");
         System.out.println("Nilai yang dihapus = "+newStack.pop());
         newStack.printData();
         newStack.push(4);
