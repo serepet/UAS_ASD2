@@ -2,7 +2,7 @@ package soalBinaryTree;
 public class TheApps {
      public static void main(String[] args) {
         BinaryTree tree = new BinaryTree();
-        //Yusron Arly Bazarah
+        
         Node siNode;
         
         siNode = new Node(50);
